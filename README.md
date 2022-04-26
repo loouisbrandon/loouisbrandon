@@ -1,7 +1,7 @@
 Hi 👋 My name is Brandon Louis
 ==============================
 
-Fullstack Developer and Data Scientist
+Fullstack Developer and Data Scientist junior
 --------------------------------------
 
 *   🌍  I'm based in Brazil
