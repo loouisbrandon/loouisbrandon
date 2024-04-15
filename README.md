@@ -6,7 +6,7 @@ Fullstack Developer and Data Scientist
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [Brandonlouisferreira@gmail.com](mailto:Brandonlouisferreira@gmail.com)
-*   You can visit my digital CV here  [https://brandonlouis.netlify.app]
+*   You can visit my digital CV here => [https://brandonlouis.netlify.app]
 
 ### Skills
 <p align="left">
